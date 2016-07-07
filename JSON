@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML bestand Karel testdata adressen-->
+<adressen>
+	<testdata>
+		<nomemercato id="007">Mercato di test</nomemercato>
+		<datum>Giovedi 24 juni 2016 16.05.29</data>
+	</testdata>
+	<record>
+		<client_id>5</client_id>
+		<naam_winkel>Miami American Cafe</naam_winkel>
+		<fiscaal_nummer>IT07654930130</fiscaal_nummer>
+		<adres type="casa">Viale Carlo Espinasse 5, Como</adres>
+		<product_nummer>13</product_nummer>
+	</record>
+	<record>
+		<client_id>302</client_id>
+		<naam_winkel>Filiberto Gilardi</naam_winkel>
+		<fiscaal_nummer>IT87654770157</fiscaal_nummer>
+		<adres type="ufficio">Via Biancospini 20, Messina</adres>
+		<product_nummer>8</product_nummer>
+	</record>
+	<record>
+		<client_id>1302</client_id>
+		<naam_winkel>Eidon</naam_winkel>
+		<fiscaal_nummer>IT887511231</fiscaal_nummer>
+		<adres type="ufficio">Via Bassini 17/2, Milano</adres>
+		<product_nummer>18</product_nummer>
+	</record>
+	<record>
+		<client_id>202</client_id>
+		<naam_winkel>SkillNet</naam_winkel>
+		<fiscaal_nummer>IT887642131</fiscaal_nummer>
+		<adres type="ufficio">Via Chiasserini 11A, Milano</adres>
+		<product_nummer>24</product_nummer>
+	</record>
+	<record>
+		<client_id>12</client_id>
+		<naam_winkel>Eidon</naam_winkel>
+		<fiscaal_nummer>IT04835710965</fiscaal_nummer>
+		<adres type="casa">Via Cignoli 17/2, Roma</adres>
+		<product_nummer>1112</product_nummer>
+	</record>
+	<record>
+		<client_id>5</client_id>
+		<naam_winkel>Miami American Cafe</naam_winkel>
+		<fiscaal_nummer>IT07654930130</fiscaal_nummer>
+		<adres type="casa">Viale Carlo Espinasse 5, Como</adres>
+		<product_nummer>13</product_nummer> 
+	</record>
+	<record>
+		<client_id>302</client_id>
+		<naam_winkel>Filiberto Gilardi</naam_winkel>
+		<fiscaal_nummer>IT87654770157</fiscaal_nummer>
+		<adres type="ufficio">Via Biancospini 20, Messina</adres>
+		<product_nummer>8</product_nummer>
+	</record>
+	<record>
+		<client_id>1302</client_id>
+		<naam_winkel>Eidon</naam_winkel>
+		<fiscaal_nummer>IT887511231</fiscaal_nummer>
+		<adres type="ufficio">Via Bassini 17/2, Milano</adres>
+		<product_nummer>18</product_nummer>
+	</record>
+	<record>
+		<client_id>202</client_id>
+		<naam_winkel>SkillNet</naam_winkel>
+		<fiscaal_nummer>IT887642131</fiscaal_nummer>
+		<adres type="ufficio">Via Chiasserini 11A, Milano</adres>
+		<product_nummer>24</product_nummer>
+	</record>
+	<record>
+		<client_id>202</client_id>
+		<naam_winkel>SkillNet</naam_winkel>
+		<fiscaal_nummer>IT887642131</fiscaal_nummer>
+		<adres type="ufficio">Via Chiasserini 11A, Milano</adres>
+		<product_nummer>24</product_nummer>
+	</record>
+	<record>
+		<client_id>12</client_id>
+		<naam_winkel>Eidon</naam_winkel>
+		<fiscaal_nummer>IT04835710965</fiscaal_nummer>
+		<adres type="casa">Via Cignoli 17/2, Roma</adres>
+		<product_nummer>1112</product_nummer>
+    </record>
+</adressen>
